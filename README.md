@@ -24,7 +24,10 @@
 ![image](https://github.com/user-attachments/assets/292bcfec-0ca6-4e7e-ae6e-58e70eb88508)
 
 ### Chart 3: 
-- Here, I compared 2023 pre swearing-in inflation rate against post swearing-in inflation rate periods.
+- Here, I compared 2023 pre swearing-in inflation rate against 2024 post swearing-in inflation rate periods.
 ![image](https://github.com/user-attachments/assets/1a4544a4-1c77-4d28-bb27-efbce3a56994)
 
 ## Conclusion and recommendation
+- From the deep analysis of the inflation data, it can be concluded that the President's speech at the swearing-in caused a big jump in all economic indicators. The minimum increase in inflation rate y-o-y is 32.2%. A major driver of this jump is the removal of fuel subsidy which has caused several arguements and economic discussions.
+
+- My recommendation would be for the government to focus more on security, agriculture, enabling environment for business to thrive and monetary policies that can improve the economic trajectory.
